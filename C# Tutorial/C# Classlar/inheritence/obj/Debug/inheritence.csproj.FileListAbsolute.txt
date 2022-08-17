@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\inheritence\bin\Debug\inheritence.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\inheritence\bin\Debug\inheritence.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\inheritence\bin\Debug\inheritence.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\inheritence\obj\Debug\inheritence.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\inheritence\obj\Debug\inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\inheritence\obj\Debug\inheritence.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\inheritence\obj\Debug\inheritence.pdb

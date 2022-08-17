@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\methods_1\obj\Debug\methods_1.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\methods_1\obj\Debug\methods_1.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\methods_1\bin\Debug\methods_1_parametresiz.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\methods_1\bin\Debug\methods_1_parametresiz.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\methods_1\bin\Debug\methods_1_parametresiz.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\methods_1\obj\Debug\methods_1_parametresiz.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\methods_1\obj\Debug\methods_1_parametresiz.pdb

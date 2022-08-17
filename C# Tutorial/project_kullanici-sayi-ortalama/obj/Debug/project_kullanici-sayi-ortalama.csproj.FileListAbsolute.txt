@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_kullanici-sayi-ortalama\obj\Debug\project_kullanici-sayi-ortalama.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_kullanici-sayi-ortalama\bin\Debug\project_kullanici-sayi-ortalama.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_kullanici-sayi-ortalama\bin\Debug\project_kullanici-sayi-ortalama.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_kullanici-sayi-ortalama\bin\Debug\project_kullanici-sayi-ortalama.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_kullanici-sayi-ortalama\obj\Debug\project_kullanici-sayi-ortalama.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_kullanici-sayi-ortalama\obj\Debug\project_kullanici-sayi-ortalama.pdb

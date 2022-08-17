@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\ConsoleApp1\obj\Debug\Classlar.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\ConsoleApp1\obj\Debug\Classlar.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

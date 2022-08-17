@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\kapsulleme_deneme\obj\Debug\kapsulleme_deneme.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\kapsulleme_deneme\bin\Debug\kapsulleme_deneme.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\kapsulleme_deneme\bin\Debug\kapsulleme_deneme.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\kapsulleme_deneme\bin\Debug\kapsulleme_deneme.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\kapsulleme_deneme\obj\Debug\kapsulleme_deneme.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\kapsulleme_deneme\obj\Debug\kapsulleme_deneme.pdb

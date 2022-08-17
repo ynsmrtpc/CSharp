@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\donusturme\obj\Debug\donusturme.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\donusturme\obj\Debug\donusturme.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\donusturme\bin\Debug\donusturme.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\donusturme\bin\Debug\donusturme.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\donusturme\bin\Debug\donusturme.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\donusturme\obj\Debug\donusturme.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\donusturme\obj\Debug\donusturme.pdb

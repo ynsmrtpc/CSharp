@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_ort-hesaplama\bin\Debug\project_ort-hesaplama.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_ort-hesaplama\bin\Debug\project_ort-hesaplama.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_ort-hesaplama\bin\Debug\project_ort-hesaplama.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_ort-hesaplama\obj\Debug\project_ort-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_ort-hesaplama\obj\Debug\project_ort-hesaplama.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_ort-hesaplama\obj\Debug\project_ort-hesaplama.pdb

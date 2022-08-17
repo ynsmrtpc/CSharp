@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_atm\bin\Debug\project_atm.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_atm\bin\Debug\project_atm.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_atm\bin\Debug\project_atm.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_atm\obj\Debug\project_atm.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_atm\obj\Debug\project_atm.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_atm\obj\Debug\project_atm.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_atm\obj\Debug\project_atm.csproj.AssemblyReference.cache

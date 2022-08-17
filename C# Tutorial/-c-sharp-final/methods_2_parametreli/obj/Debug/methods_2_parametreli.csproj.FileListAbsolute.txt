@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\ConsoleApp1\methods_2_parametreli\bin\Debug\methods_2_parametreli.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\ConsoleApp1\methods_2_parametreli\bin\Debug\methods_2_parametreli.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\ConsoleApp1\methods_2_parametreli\bin\Debug\methods_2_parametreli.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\ConsoleApp1\methods_2_parametreli\obj\Debug\methods_2_parametreli.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\ConsoleApp1\methods_2_parametreli\obj\Debug\methods_2_parametreli.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\ConsoleApp1\methods_2_parametreli\obj\Debug\methods_2_parametreli.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\ConsoleApp1\methods_2_parametreli\obj\Debug\methods_2_parametreli.pdb

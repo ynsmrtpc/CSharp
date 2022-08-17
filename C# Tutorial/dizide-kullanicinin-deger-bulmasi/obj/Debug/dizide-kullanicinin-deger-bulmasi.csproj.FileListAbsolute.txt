@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\dizide-kullanicinin-deger-bulmasi\bin\Debug\dizide-kullanicinin-deger-bulmasi.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\dizide-kullanicinin-deger-bulmasi\bin\Debug\dizide-kullanicinin-deger-bulmasi.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\dizide-kullanicinin-deger-bulmasi\bin\Debug\dizide-kullanicinin-deger-bulmasi.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\dizide-kullanicinin-deger-bulmasi\obj\Debug\dizide-kullanicinin-deger-bulmasi.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\dizide-kullanicinin-deger-bulmasi\obj\Debug\dizide-kullanicinin-deger-bulmasi.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\dizide-kullanicinin-deger-bulmasi\obj\Debug\dizide-kullanicinin-deger-bulmasi.pdb

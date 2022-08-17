@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\interfaces\bin\Debug\interfaces.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\interfaces\bin\Debug\interfaces.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\interfaces\bin\Debug\interfaces.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\interfaces\obj\Debug\interfaces.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\interfaces\obj\Debug\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\interfaces\obj\Debug\interfaces.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\interfaces\obj\Debug\interfaces.pdb

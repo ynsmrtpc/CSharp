@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_string-control\bin\Debug\project_string-control.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_string-control\bin\Debug\project_string-control.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_string-control\bin\Debug\project_string-control.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_string-control\obj\Debug\project_string-control.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_string-control\obj\Debug\project_string-control.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_string-control\obj\Debug\project_string-control.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_string-control\obj\Debug\project_string-control.csproj.AssemblyReference.cache

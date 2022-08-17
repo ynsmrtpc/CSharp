@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_diziler-falan\bin\Debug\project_diziler-falan.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_diziler-falan\bin\Debug\project_diziler-falan.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_diziler-falan\bin\Debug\project_diziler-falan.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_diziler-falan\obj\Debug\project_diziler-falan.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_diziler-falan\obj\Debug\project_diziler-falan.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_diziler-falan\obj\Debug\project_diziler-falan.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_diziler-falan\obj\Debug\project_diziler-falan.pdb

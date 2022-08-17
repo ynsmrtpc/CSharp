@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_beden-kitle-indeksi\bin\Debug\project_beden-kitle-indeksi.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_beden-kitle-indeksi\bin\Debug\project_beden-kitle-indeksi.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_beden-kitle-indeksi\bin\Debug\project_beden-kitle-indeksi.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_beden-kitle-indeksi\obj\Debug\project_beden-kitle-indeksi.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_beden-kitle-indeksi\obj\Debug\project_beden-kitle-indeksi.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_beden-kitle-indeksi\obj\Debug\project_beden-kitle-indeksi.pdb

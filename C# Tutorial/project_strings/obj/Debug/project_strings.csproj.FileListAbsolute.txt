@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_strings\bin\Debug\project_strings.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_strings\bin\Debug\project_strings.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_strings\bin\Debug\project_strings.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_strings\obj\Debug\project_strings.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_strings\obj\Debug\project_strings.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_strings\obj\Debug\project_strings.pdb

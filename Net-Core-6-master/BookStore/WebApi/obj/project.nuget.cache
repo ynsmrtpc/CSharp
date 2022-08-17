@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8lE4HKDtgr2+sMyR+GQK9V1Utd4HC8j3O7HYjo7j9T5H4/s4XjOcQBiwjkfUYkDUoG3I/rHvwbfc6fZ97DrKxg==",
+  "success": true,
+  "projectFilePath": "/Users/yunus/Desktop/Net Core/BookStore/WebApi/WebApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/yunus/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/yunus/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/yunus/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/yunus/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/yunus/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/yunus/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

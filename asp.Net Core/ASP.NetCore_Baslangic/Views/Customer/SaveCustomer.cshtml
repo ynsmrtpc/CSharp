@@ -1,0 +1,29 @@
+﻿@model SaveCustomerViewModel
+@*<!DOCTYPE html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>SaveCustomer</title>
+    </head>
+    <body>*@
+@*</body>
+    </html>*@
+
+@*_Layout İÇERİSİNDE ZATEN HTML TANIMLI OLDUĞU İÇİN BURADA TERKRAR HTML AÇMAMIZA GEREK YOK !*@
+
+<h3 class="alert alert-success">Müşteri Ekle</h3>
+<form asp-controller="Customer" asp-action="SaveCustomer">
+    Id:      <input asp-for="Customer.Id" />         <br />
+    Ad:      <input asp-for="Customer.FirstName" />  <br />
+    Soyad:   <input asp-for="Customer.LastName" />   <br />
+    Şehir:   <select asp-for="Customer.LastName" asp-items="Model.Cities"></select>  <br />
+    <button style="width: 5rem;height:1.5rem" type="submit">Kaydet</button>
+</form>
+
+@section Scripts{
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+}
+

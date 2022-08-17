@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\ConsoleApp1\project_ornek-1\obj\Debug\project_ornek-1.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\ConsoleApp1\project_ornek-1\bin\Debug\project_ornek-1.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\ConsoleApp1\project_ornek-1\bin\Debug\project_ornek-1.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\ConsoleApp1\project_ornek-1\bin\Debug\project_ornek-1.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\ConsoleApp1\project_ornek-1\obj\Debug\project_ornek-1.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Metodlar\ConsoleApp1\project_ornek-1\obj\Debug\project_ornek-1.pdb

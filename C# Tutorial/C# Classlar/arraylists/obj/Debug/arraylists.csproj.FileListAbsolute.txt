@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\arraylists\bin\Debug\arraylists.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\arraylists\bin\Debug\arraylists.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\arraylists\bin\Debug\arraylists.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\arraylists\obj\Debug\arraylists.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\arraylists\obj\Debug\arraylists.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\arraylists\obj\Debug\arraylists.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\arraylists\obj\Debug\arraylists.pdb

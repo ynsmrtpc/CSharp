@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\project_personel-tc2\bin\Debug\project_personel-tc2.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\project_personel-tc2\bin\Debug\project_personel-tc2.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\project_personel-tc2\bin\Debug\project_personel-tc2.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\project_personel-tc2\obj\Debug\project_personel-tc2.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\project_personel-tc2\obj\Debug\project_personel-tc2.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\project_personel-tc2\obj\Debug\project_personel-tc2.pdb

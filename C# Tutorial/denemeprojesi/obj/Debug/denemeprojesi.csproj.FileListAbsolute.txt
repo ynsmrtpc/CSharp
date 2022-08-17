@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\denemeprojesi\bin\Debug\denemeprojesi.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\denemeprojesi\bin\Debug\denemeprojesi.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\denemeprojesi\bin\Debug\denemeprojesi.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\denemeprojesi\obj\Debug\denemeprojesi.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\denemeprojesi\obj\Debug\denemeprojesi.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\denemeprojesi\obj\Debug\denemeprojesi.pdb

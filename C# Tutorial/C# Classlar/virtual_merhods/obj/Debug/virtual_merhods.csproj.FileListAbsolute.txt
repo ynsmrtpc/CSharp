@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\virtual_merhods\bin\Debug\virtual_merhods.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\virtual_merhods\bin\Debug\virtual_merhods.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\virtual_merhods\bin\Debug\virtual_merhods.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\virtual_merhods\obj\Debug\virtual_merhods.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\virtual_merhods\obj\Debug\virtual_merhods.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\virtual_merhods\obj\Debug\virtual_merhods.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\virtual_merhods\obj\Debug\virtual_merhods.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\kapsulleme\bin\Debug\kapsulleme.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\kapsulleme\bin\Debug\kapsulleme.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\kapsulleme\bin\Debug\kapsulleme.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\kapsulleme\obj\Debug\kapsulleme.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\kapsulleme\obj\Debug\kapsulleme.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\kapsulleme\obj\Debug\kapsulleme.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\kapsulleme\obj\Debug\kapsulleme.pdb

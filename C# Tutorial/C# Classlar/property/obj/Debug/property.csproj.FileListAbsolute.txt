@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\property\bin\Debug\property.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\property\bin\Debug\property.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\property\bin\Debug\property.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\property\obj\Debug\property.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\property\obj\Debug\property.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\property\obj\Debug\property.pdb

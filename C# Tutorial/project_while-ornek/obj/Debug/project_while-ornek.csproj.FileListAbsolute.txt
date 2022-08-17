@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_while-ornek\obj\Debug\project_while-ornek.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_while-ornek\bin\Debug\project_while-ornek.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_while-ornek\bin\Debug\project_while-ornek.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_while-ornek\bin\Debug\project_while-ornek.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_while-ornek\obj\Debug\project_while-ornek.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_while-ornek\obj\Debug\project_while-ornek.pdb

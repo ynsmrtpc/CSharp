@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_login\bin\Debug\project_login.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_login\bin\Debug\project_login.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_login\bin\Debug\project_login.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_login\obj\Debug\project_login.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_login\obj\Debug\project_login.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_login\obj\Debug\project_login.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_login\obj\Debug\project_login.pdb

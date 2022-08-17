@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_icicedongu-piramit\bin\Debug\project_icicedongu-piramit.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_icicedongu-piramit\bin\Debug\project_icicedongu-piramit.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_icicedongu-piramit\bin\Debug\project_icicedongu-piramit.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_icicedongu-piramit\obj\Debug\project_icicedongu-piramit.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_icicedongu-piramit\obj\Debug\project_icicedongu-piramit.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_icicedongu-piramit\obj\Debug\project_icicedongu-piramit.pdb

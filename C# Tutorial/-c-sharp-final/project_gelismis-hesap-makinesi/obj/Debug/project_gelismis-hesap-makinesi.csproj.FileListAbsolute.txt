@@ -1,0 +1,3 @@
+G:\Diğer bilgisayarlar\DELL - Windows\Çalışma Dosyaları\MVC C# Çalışması\C#\C# Tutorial\-c-sharp-final\project_gelismis-hesap-makinesi\obj\Debug\project_gelismis-hesap-makinesi.csproj.AssemblyReference.cache
+G:\Diğer bilgisayarlar\DELL - Windows\Çalışma Dosyaları\MVC C# Çalışması\C#\C# Tutorial\-c-sharp-final\project_gelismis-hesap-makinesi\obj\Debug\project_gelismis-hesap-makinesi.csproj.SuggestedBindingRedirects.cache
+G:\Diğer bilgisayarlar\DELL - Windows\Çalışma Dosyaları\MVC C# Çalışması\C#\C# Tutorial\-c-sharp-final\project_gelismis-hesap-makinesi\obj\Debug\project_gelismis-hesap-makinesi.csproj.CoreCompileInputs.cache

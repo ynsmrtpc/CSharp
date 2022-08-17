@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_otobüs-koltuk-dizi\bin\Debug\project_otobüs-koltuk-dizi.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_otobüs-koltuk-dizi\bin\Debug\project_otobüs-koltuk-dizi.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_otobüs-koltuk-dizi\bin\Debug\project_otobüs-koltuk-dizi.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_otobüs-koltuk-dizi\obj\Debug\project_otobüs-koltuk-dizi.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_otobüs-koltuk-dizi\obj\Debug\project_otobüs-koltuk-dizi.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_otobüs-koltuk-dizi\obj\Debug\project_otobüs-koltuk-dizi.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\project_otobüs-koltuk-dizi\obj\Debug\project_otobüs-koltuk-dizi.pdb

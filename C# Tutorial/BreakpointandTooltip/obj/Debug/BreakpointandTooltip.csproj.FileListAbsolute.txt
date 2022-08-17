@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\BreakpointandTooltip\obj\Debug\BreakpointandTooltip.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\BreakpointandTooltip\bin\Debug\BreakpointandTooltip.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\BreakpointandTooltip\bin\Debug\BreakpointandTooltip.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\BreakpointandTooltip\bin\Debug\BreakpointandTooltip.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\BreakpointandTooltip\obj\Debug\BreakpointandTooltip.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\BreakpointandTooltip\obj\Debug\BreakpointandTooltip.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\BreakpointandTooltip\obj\Debug\BreakpointandTooltip.csproj.AssemblyReference.cache

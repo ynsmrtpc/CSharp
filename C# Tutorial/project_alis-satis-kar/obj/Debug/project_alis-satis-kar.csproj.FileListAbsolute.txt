@@ -1,0 +1,13 @@
+C:/Users/Aleyna/Desktop/YUNUS/C#/project_alis-satis-kar/bin/Debug/project_alis-satis-kar.exe.config
+C:/Users/Aleyna/Desktop/YUNUS/C#/project_alis-satis-kar/bin/Debug/project_alis-satis-kar.exe
+C:/Users/Aleyna/Desktop/YUNUS/C#/project_alis-satis-kar/bin/Debug/project_alis-satis-kar.pdb
+C:/Users/Aleyna/Desktop/YUNUS/C#/project_alis-satis-kar/obj/Debug/project_alis-satis-kar.csproj.CoreCompileInputs.cache
+C:/Users/Aleyna/Desktop/YUNUS/C#/project_alis-satis-kar/obj/Debug/project_alis-satis-kar.exe
+C:/Users/Aleyna/Desktop/YUNUS/C#/project_alis-satis-kar/obj/Debug/project_alis-satis-kar.pdb
+/Volumes/GoogleDrive/Diğer bilgisayarlar/DELL - Windows/Çalışma Dosyaları/PROGRAMLAMA/MVC C# Çalışması/C#/C# Tutorial/project_alis-satis-kar/bin/Debug/project_alis-satis-kar.exe.config
+/Volumes/GoogleDrive/Diğer bilgisayarlar/DELL - Windows/Çalışma Dosyaları/PROGRAMLAMA/MVC C# Çalışması/C#/C# Tutorial/project_alis-satis-kar/bin/Debug/project_alis-satis-kar.exe
+/Volumes/GoogleDrive/Diğer bilgisayarlar/DELL - Windows/Çalışma Dosyaları/PROGRAMLAMA/MVC C# Çalışması/C#/C# Tutorial/project_alis-satis-kar/bin/Debug/project_alis-satis-kar.pdb
+/Volumes/GoogleDrive/Diğer bilgisayarlar/DELL - Windows/Çalışma Dosyaları/PROGRAMLAMA/MVC C# Çalışması/C#/C# Tutorial/project_alis-satis-kar/obj/Debug/project_alis-satis-kar.csproj.AssemblyReference.cache
+/Volumes/GoogleDrive/Diğer bilgisayarlar/DELL - Windows/Çalışma Dosyaları/PROGRAMLAMA/MVC C# Çalışması/C#/C# Tutorial/project_alis-satis-kar/obj/Debug/project_alis-satis-kar.csproj.CoreCompileInputs.cache
+/Volumes/GoogleDrive/Diğer bilgisayarlar/DELL - Windows/Çalışma Dosyaları/PROGRAMLAMA/MVC C# Çalışması/C#/C# Tutorial/project_alis-satis-kar/obj/Debug/project_alis-satis-kar.exe
+/Volumes/GoogleDrive/Diğer bilgisayarlar/DELL - Windows/Çalışma Dosyaları/PROGRAMLAMA/MVC C# Çalışması/C#/C# Tutorial/project_alis-satis-kar/obj/Debug/project_alis-satis-kar.pdb

@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\project_ogrenci\obj\Debug\project_ogrenci.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\project_ogrenci\bin\Debug\project_ogrenci.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\project_ogrenci\bin\Debug\project_ogrenci.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\project_ogrenci\bin\Debug\project_ogrenci.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\project_ogrenci\obj\Debug\project_ogrenci.exe
+C:\Users\Aleyna\Desktop\YUNUS\C# Classlar\project_ogrenci\obj\Debug\project_ogrenci.pdb

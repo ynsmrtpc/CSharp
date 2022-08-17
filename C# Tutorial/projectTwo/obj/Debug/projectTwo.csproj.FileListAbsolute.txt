@@ -1,0 +1,7 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\projectTwo\bin\Debug\projectTwo.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\projectTwo\bin\Debug\projectTwo.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\projectTwo\bin\Debug\projectTwo.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\projectTwo\obj\Debug\projectTwo.csproj.AssemblyReference.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\projectTwo\obj\Debug\projectTwo.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\projectTwo\obj\Debug\projectTwo.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\projectTwo\obj\Debug\projectTwo.pdb

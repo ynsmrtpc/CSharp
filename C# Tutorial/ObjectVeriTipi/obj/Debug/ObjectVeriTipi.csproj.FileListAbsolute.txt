@@ -1,0 +1,6 @@
+C:\Users\Aleyna\Desktop\YUNUS\C#\ObjectVeriTipi\bin\Debug\ObjectVeriTipi.exe.config
+C:\Users\Aleyna\Desktop\YUNUS\C#\ObjectVeriTipi\bin\Debug\ObjectVeriTipi.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\ObjectVeriTipi\bin\Debug\ObjectVeriTipi.pdb
+C:\Users\Aleyna\Desktop\YUNUS\C#\ObjectVeriTipi\obj\Debug\ObjectVeriTipi.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\Desktop\YUNUS\C#\ObjectVeriTipi\obj\Debug\ObjectVeriTipi.exe
+C:\Users\Aleyna\Desktop\YUNUS\C#\ObjectVeriTipi\obj\Debug\ObjectVeriTipi.pdb
