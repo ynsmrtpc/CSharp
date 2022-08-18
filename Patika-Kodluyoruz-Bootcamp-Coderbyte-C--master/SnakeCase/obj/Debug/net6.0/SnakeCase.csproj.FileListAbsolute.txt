@@ -1,0 +1,15 @@
+/Users/yunus/Desktop/coderbyte/SnakeCase/bin/Debug/net6.0/SnakeCase
+/Users/yunus/Desktop/coderbyte/SnakeCase/bin/Debug/net6.0/SnakeCase.deps.json
+/Users/yunus/Desktop/coderbyte/SnakeCase/bin/Debug/net6.0/SnakeCase.runtimeconfig.json
+/Users/yunus/Desktop/coderbyte/SnakeCase/bin/Debug/net6.0/SnakeCase.dll
+/Users/yunus/Desktop/coderbyte/SnakeCase/bin/Debug/net6.0/SnakeCase.pdb
+/Users/yunus/Desktop/coderbyte/SnakeCase/obj/Debug/net6.0/SnakeCase.csproj.AssemblyReference.cache
+/Users/yunus/Desktop/coderbyte/SnakeCase/obj/Debug/net6.0/SnakeCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunus/Desktop/coderbyte/SnakeCase/obj/Debug/net6.0/SnakeCase.AssemblyInfoInputs.cache
+/Users/yunus/Desktop/coderbyte/SnakeCase/obj/Debug/net6.0/SnakeCase.AssemblyInfo.cs
+/Users/yunus/Desktop/coderbyte/SnakeCase/obj/Debug/net6.0/SnakeCase.csproj.CoreCompileInputs.cache
+/Users/yunus/Desktop/coderbyte/SnakeCase/obj/Debug/net6.0/SnakeCase.dll
+/Users/yunus/Desktop/coderbyte/SnakeCase/obj/Debug/net6.0/refint/SnakeCase.dll
+/Users/yunus/Desktop/coderbyte/SnakeCase/obj/Debug/net6.0/SnakeCase.pdb
+/Users/yunus/Desktop/coderbyte/SnakeCase/obj/Debug/net6.0/SnakeCase.genruntimeconfig.cache
+/Users/yunus/Desktop/coderbyte/SnakeCase/obj/Debug/net6.0/ref/SnakeCase.dll

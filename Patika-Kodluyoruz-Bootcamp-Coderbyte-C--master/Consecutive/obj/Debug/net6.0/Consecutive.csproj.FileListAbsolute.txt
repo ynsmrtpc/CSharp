@@ -1,0 +1,15 @@
+/Users/yunus/Desktop/coderbyte/Consecutive/obj/Debug/net6.0/Consecutive.csproj.AssemblyReference.cache
+/Users/yunus/Desktop/coderbyte/Consecutive/obj/Debug/net6.0/Consecutive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yunus/Desktop/coderbyte/Consecutive/obj/Debug/net6.0/Consecutive.AssemblyInfoInputs.cache
+/Users/yunus/Desktop/coderbyte/Consecutive/obj/Debug/net6.0/Consecutive.AssemblyInfo.cs
+/Users/yunus/Desktop/coderbyte/Consecutive/obj/Debug/net6.0/Consecutive.csproj.CoreCompileInputs.cache
+/Users/yunus/Desktop/coderbyte/Consecutive/bin/Debug/net6.0/Consecutive
+/Users/yunus/Desktop/coderbyte/Consecutive/bin/Debug/net6.0/Consecutive.deps.json
+/Users/yunus/Desktop/coderbyte/Consecutive/bin/Debug/net6.0/Consecutive.runtimeconfig.json
+/Users/yunus/Desktop/coderbyte/Consecutive/bin/Debug/net6.0/Consecutive.dll
+/Users/yunus/Desktop/coderbyte/Consecutive/bin/Debug/net6.0/Consecutive.pdb
+/Users/yunus/Desktop/coderbyte/Consecutive/obj/Debug/net6.0/Consecutive.dll
+/Users/yunus/Desktop/coderbyte/Consecutive/obj/Debug/net6.0/refint/Consecutive.dll
+/Users/yunus/Desktop/coderbyte/Consecutive/obj/Debug/net6.0/Consecutive.pdb
+/Users/yunus/Desktop/coderbyte/Consecutive/obj/Debug/net6.0/Consecutive.genruntimeconfig.cache
+/Users/yunus/Desktop/coderbyte/Consecutive/obj/Debug/net6.0/ref/Consecutive.dll
